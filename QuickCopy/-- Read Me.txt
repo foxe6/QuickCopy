@@ -1,0 +1,8 @@
+This project includes a file that is only needed if you want to make program
+changes.  If you just want to run the QuickCopy program, the following
+file can be deleted:
+
+    Name                Description
+    ----                -----------
+    QuickCopy.ahk       Main script.
+
